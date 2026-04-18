@@ -6,3 +6,4 @@
 *.sch-bak
 _autosave-*
 fp-info-cache
+.history/
